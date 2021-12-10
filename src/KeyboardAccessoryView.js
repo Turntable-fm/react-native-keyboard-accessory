@@ -215,7 +215,7 @@ const styles = StyleSheet.create({
     position: 'absolute',
     right: 0,
     left: 0,
-    backgroundColor: '#EFF0F1',
+    backgroundColor: 'transparent',
   },
   accessoryBorder: {
     borderTopWidth: 1,
